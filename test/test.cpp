@@ -6,6 +6,7 @@ int main()
 {
 	cout << "teeest";
 		cout << "lolol";
-		cout << "don mama";
+		cout << "losss";
+		cout << "lojjj";
 	return 0;
 }
